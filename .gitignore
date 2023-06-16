@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+
+# ignore lib files too
+lib/
+
+
